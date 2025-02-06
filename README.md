@@ -1,5 +1,16 @@
 # React + Vite
 
+## Getting started
+
+- `git clone` this repository
+- `cd` to this folder
+- `npm install`
+- `npm run dev`
+
+## React Router
+
+Documentation here: https://reactrouter.com/start/library/routing
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
